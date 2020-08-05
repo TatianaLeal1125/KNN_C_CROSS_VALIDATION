@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1413416519 source:/home/ramon/Documentos/Proyectos/codeblocks/knneig/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cmath>
+	<algorithm>
+
+1443571389 source:/home/quetzal/Documents/Proyectos/codeblocks/knneig/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cmath>
+	<algorithm>
+
